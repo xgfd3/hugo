@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.jakewharton.hugo</groupId>
+  <artifactId>hugo-runtime</artifactId>
+  <version>1.2.5-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20200826.072749</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20200826072749</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>aar</extension>
+        <value>1.2.5-20200826.072749-1</value>
+        <updated>20200826072749</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.2.5-20200826.072749-1</value>
+        <updated>20200826072749</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
